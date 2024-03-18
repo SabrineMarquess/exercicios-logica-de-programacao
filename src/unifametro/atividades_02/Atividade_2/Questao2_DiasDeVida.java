@@ -1,4 +1,4 @@
-package src.unifametro.atividades_02;
+package src.unifametro.atividades_02.Atividade_2;
 
 import java.util.Scanner;
 
