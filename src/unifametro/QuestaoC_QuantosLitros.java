@@ -1,8 +1,8 @@
-package src.unifametro.atividades_02.Atividade_2;
+package src.unifametro;
 
 import java.util.Scanner;
 
-public class Questao3C_QuantosLitros {
+public class QuestaoC_QuantosLitros {
     public static void main(String[] args) {
         //3 Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo
         //para ler o preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele

@@ -1,8 +1,8 @@
-package src.unifametro.atividades_02.Atividade_2;
+package src.unifametro.Questao_Padaria;
 
 import java.util.Scanner;
 
-public class Questao1_PadariaHotpao {
+public class QuestaoS_Padaria {
     public static void main(String[] args) {
 //        1) A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de
 //        broas a cada dia. Cada pãozinho custa R$ 0,12 e a broa custa R$ 1,50. Ao final do dia, o

@@ -1,8 +1,8 @@
-package src.unifametro.atividades_02.Atividade_1;
+package src.unifametro;
 
 import java.util.Scanner;
 
-public class Questao1_XYZ {
+public class Questao_XYZ {
     public static void main(String[] args) {
         //5- Considere a sub-rotina abaixo:
 

@@ -1,8 +1,8 @@
-package src.unifametro.atividades_02.Atividade_2;
+package src.unifametro.Questao_IdadeEmDias;
 
 import java.util.Scanner;
 
-public class Questao2_DiasDeVida {
+public class QuestaoS_IdadeEmDias {
     public static void main(String[] args) {
 //        2) Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias
 //        de vida ela possui. Considere sempre anos completos, e que um ano possui 365 dias. Ex:

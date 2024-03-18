@@ -1,8 +1,8 @@
-package src.unifametro.atividades_02.Atividade_2;
+package src.unifametro;
 
 import java.util.Scanner;
 
-public class Questao5C_Granja {
+public class QuestaoC_Granja {
     public static void main(String[] args) {
         //A granja Frangotech possui um controle automatizado de cada frango da sua produção.
         //No pé direito do frango há um anel com um chip de identificação; no pé esquerdo são
