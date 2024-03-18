@@ -1,8 +1,8 @@
-package src.unifametro;
+package src.unifametro.questao_camisas;
 
 import java.util.Scanner;
 
-public class QuestaoC_Camisas {
+public class questaoC_camisas {
     public static void main(String[] args) {
         //Uma fábrica de camisetas produz os tamanhos pequeno, médio e grande, cada uma sendo
         //vendida respectivamente por 10, 12 e 15 reais. Construa um algoritmo em que o usuário
