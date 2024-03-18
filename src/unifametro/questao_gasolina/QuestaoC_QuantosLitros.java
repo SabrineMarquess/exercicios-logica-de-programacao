@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.unifametro.questao_gasolina;
 
 import java.util.Scanner;
 
