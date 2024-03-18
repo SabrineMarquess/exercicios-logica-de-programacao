@@ -1,4 +1,4 @@
-package src.unifametro.eduardoMaximo.atividades_02;
+package src.unifametro.atividades_02;
 
 import java.util.Scanner;
 
