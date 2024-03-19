@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.unifametro.questao_granja;
 
 import java.util.Scanner;
 

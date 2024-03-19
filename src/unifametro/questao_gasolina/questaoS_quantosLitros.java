@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class questaoS_quantosLitros {
     public static void main(String[] args) {
-        //3 Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo
+        // Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo
         //para scanner o preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele
         //conseguiu colocar no tanque
 
         Scanner scanner = new Scanner(System.in);
-        
+
         System.out.println("Informe o preço do litro da gasolina: ");
         double precoLitro = scanner.nextDouble();
 
