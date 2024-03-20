@@ -1,4 +1,4 @@
-package src.unifametro.Questao_IdadeEmDias;
+package src.unifametro.questao_idadeEmDias;
 
 import java.util.Scanner;
 
