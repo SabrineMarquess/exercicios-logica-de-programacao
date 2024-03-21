@@ -2,7 +2,7 @@ package src.unifametro;
 
 import java.util.Scanner;
 
-public class Questao_XYZ {
+public class questao_xyz {
     public static void main(String[] args) {
         //5- Considere a sub-rotina abaixo:
 

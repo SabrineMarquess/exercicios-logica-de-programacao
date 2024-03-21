@@ -1,4 +1,4 @@
-package src.unifametro.Questao_Padaria;
+package src.unifametro.questao_padaria;
 
 import java.util.Scanner;
 
