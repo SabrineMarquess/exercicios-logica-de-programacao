@@ -34,5 +34,9 @@ public class questao_reajusteSalario {
         System.out.println("Reajuste aplicado: " + reajuste);
         System.out.println("Novo salário: " + novoSalario);
 
+
+
+
+
     }
 }
