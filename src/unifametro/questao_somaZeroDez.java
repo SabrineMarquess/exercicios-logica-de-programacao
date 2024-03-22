@@ -10,7 +10,7 @@ public class questao_somaZeroDez {
 
             resultado = resultado + i;
             System.out.println("resultado: " + resultado);
-        // teste de alteração sendo realizada
+        // Outro teste de alteração
 
         }
 
