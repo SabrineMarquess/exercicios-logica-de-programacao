@@ -8,4 +8,4 @@ As descrições das atividades estão dentro das próprias classes em comentári
 Este projeto é composto por vários colaboradores, podendo ter uma mesma questão no ponto de vista de desenvolvedores diferentes. 
 <br>
 <br>
-<b>Promovido por:</b> Sabrine Marques, Leonardo Castro, Luiz Guilherme e Caio Henrique
+<b>Promovido por:</b> Sabrine Marques, Leonardo Castro, Luiz Guilherme e Caio Henrique 
