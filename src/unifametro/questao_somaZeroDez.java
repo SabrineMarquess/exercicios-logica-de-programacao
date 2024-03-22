@@ -10,7 +10,7 @@ public class questao_somaZeroDez {
 
             resultado = resultado + i;
             System.out.println("resultado: " + resultado);
-        // Testando pela terceira vez
+        // Testando pela quarta vez
 
         }
 
