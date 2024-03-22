@@ -4,6 +4,9 @@
 <br>
 <br>
 <b>Importante:</b>
-As descrições das atividades estão dentro das próprias classes em comentários. As pastas são divididas pela finalidade de cada atividade.
-
-
+As descrições das atividades estão dentro das próprias classes em comentários. As pastas são divididas pela finalidade de cada atividade. 
+<br>
+Este projeto é composto por vários colaboradores, podendo ter uma mesma questão no ponto de vista de desenvolvedores diferentes. 
+<br>
+<br>
+<b>Promovido por:</b> Sabrine Marques, Leonardo Castro, Luiz Guilherme e Caio Henrique
