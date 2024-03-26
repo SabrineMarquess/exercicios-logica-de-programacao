@@ -9,14 +9,14 @@ import java.util.Scanner;
  * A cada tentativa, o jogador recebe uma dica se o número sorteado é maior ou menor que a tentativa.
  * O jogo continua até que o jogador acerte o número sorteado.
  */
-public class QuestaoC_jogo {
+public class service_jogo {
     private int numeroSorteado;
     private Random random;
 
     /**
      * Construtor da classe. Gera um número sorteado aleatório entre 1 e 100.
      */
-    public QuestaoC_jogo() {
+    public service_jogo() {
         random = new Random();
         numeroSorteado = random.nextInt(100) + 1;
     }

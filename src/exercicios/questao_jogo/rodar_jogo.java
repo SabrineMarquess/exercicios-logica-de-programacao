@@ -1,9 +1,9 @@
 package src.exercicios.questao_jogo;
 
-public class QuestaoS_jogo {
+public class rodar_jogo {
 
     public static void main(String[] args) {
-        QuestaoC_jogo jogo = new QuestaoC_jogo();
+        service_jogo jogo = new service_jogo();
         jogo.jogar();
     }
 }
