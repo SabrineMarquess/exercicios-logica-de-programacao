@@ -2,7 +2,7 @@ package src.exercicios.questao_granja;
 
 import java.util.Scanner;
 
-public class questaoS_granja {
+public class QuestaoS_Granja {
     public static void main(String[] args) {
         //A granja Frangotech possui um controle automatizado de cada frango da sua produção.
         //No pé direito do frango há um anel com um chip de identificação; no pé esquerdo são

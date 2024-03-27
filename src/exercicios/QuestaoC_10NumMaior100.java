@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.exercicios;
 
 public class QuestaoC_10NumMaior100 {
     public static void main(String[] args) {

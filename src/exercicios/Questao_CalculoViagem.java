@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_calculoViagem {
+public class Questao_CalculoViagem {
     public static void main(String[] args) {
 //        Faça um programa que calcule a quantidade de litros de combustível gasta em
 //        uma viagem, utilizando um automóvel que faz 12Km por litro. Para obter o cálculo,

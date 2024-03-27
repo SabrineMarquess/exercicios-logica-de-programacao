@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_analisarNumeros {
+public class Questao_AnalisarNumeros {
     public static void main(String[] args) {
 
 //        Este código vai analisar 3 números inteiros: ele analisa qual é o maior,

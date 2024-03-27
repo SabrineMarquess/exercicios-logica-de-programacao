@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_reajusteSalario {
+public class Questao_ReajusteSalario {
     public static void main(String[] args) {
 //        Desenvolver a lógica para um programa que  efetue o cálculo do
 //        reajuste de salário de um  funcionário. Considere

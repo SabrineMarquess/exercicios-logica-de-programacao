@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.exercicios.questao_soma0a10;
 
 public class QuestaoC_Soma0a10 {
     public static void main(String[] args) {

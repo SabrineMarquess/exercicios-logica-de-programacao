@@ -1,6 +1,6 @@
 package src.exercicios;
 
-public class questao_relogio {
+public class Questao_Relogio {
     public static void main(String[] args) throws InterruptedException {
 //      Desenvolver uma espécie de temporizador, quando você roda a aplicação ele começa a contar
 //      Exibindo horas, minutos, e segundos, nos 60 segundos ele recomeça a contagem, da mesma forma com

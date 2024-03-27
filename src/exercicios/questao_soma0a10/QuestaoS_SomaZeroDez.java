@@ -1,6 +1,6 @@
-package src.exercicios;
+package src.exercicios.questao_soma0a10;
 
-public class questao_somaZeroDez {
+public class QuestaoS_SomaZeroDez {
     public static void main(String[] args) {
 //        Desenvolver um código que mostre a soma de
 //        todos os números inteiros de 0 a 10. Exemplo: 1 + 0, 1 + 2, 3 + 3...

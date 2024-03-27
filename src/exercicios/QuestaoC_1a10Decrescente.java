@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.exercicios;
 
 public class QuestaoC_1a10Decrescente {
     public static void main(String[] args) {

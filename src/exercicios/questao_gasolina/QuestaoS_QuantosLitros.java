@@ -2,7 +2,7 @@ package src.exercicios.questao_gasolina;
 
 import java.util.Scanner;
 
-public class questaoS_quantosLitros {
+public class QuestaoS_QuantosLitros {
     public static void main(String[] args) {
         // Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo
         //para scanner o preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele

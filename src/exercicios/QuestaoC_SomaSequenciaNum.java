@@ -1,4 +1,4 @@
-package src.unifametro;
+package src.exercicios;
 
 import java.util.Scanner;
 
