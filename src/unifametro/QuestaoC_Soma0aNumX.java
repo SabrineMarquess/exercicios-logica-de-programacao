@@ -12,7 +12,7 @@ public class QuestaoC_Soma0aNumX {
         x = ler.nextInt();
 
         for (int i=0; i <= x; i++){
-            soma = soma+i;
+            soma += i;
         }
             System.out.println("Resultado da Soma dos números no intervalo informado é: " +soma);
 

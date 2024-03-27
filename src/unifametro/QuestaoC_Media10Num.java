@@ -13,7 +13,7 @@ public class QuestaoC_Media10Num {
         for (int i=1; i<=10 ; i++){
             System.out.println("Informe o Valor do "+i+" Número");
             num = ler.nextInt();
-            soma = soma+num;
+            soma += num;
         }
             media = soma /10;
             System.out.println("Número: "+num+" soma: "+soma+" media:"+media);
