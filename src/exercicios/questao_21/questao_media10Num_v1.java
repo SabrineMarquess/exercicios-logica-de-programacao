@@ -2,7 +2,7 @@ package src.exercicios.questao_21;
 
 import java.util.Scanner;
 
-public class QuestaoC_Media10Num {
+public class questao_media10Num_v1 {
     public static void main(String[] args) {
         //2. Escreva um programa que calcule e imprima a
         //média de 10 números introduzidos pelo usuário
