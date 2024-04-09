@@ -9,3 +9,5 @@ Este projeto é composto por vários colaboradores, podendo ter uma mesma quest�
 <br>
 <br>
 <b>Promovido por:</b> Sabrine Marques, Luiz Guilherme e Caio Henrique 
+
+<h1>Como Utilizar | Navegação</h1>
