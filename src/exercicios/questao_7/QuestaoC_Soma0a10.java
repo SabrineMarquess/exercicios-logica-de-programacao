@@ -1,4 +1,4 @@
-package src.exercicios.questao_20;
+package src.exercicios.questao_7;
 
 public class QuestaoC_Soma0a10 {
     public static void main(String[] args) {
