@@ -1,4 +1,4 @@
-package src.exercicios.questao_18.questao_18_v1;
+package src.exercicios.questao_17.questao_17_v1;
 
 import java.util.Random;
 import java.util.Scanner;
