@@ -1,4 +1,4 @@
-package src.outros;
+package src.exercicios.questao_30;
 
 import java.util.Scanner;
 
