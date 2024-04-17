@@ -2,9 +2,9 @@ package src.exercicios.questao_23;
 
 import java.util.Scanner;
 
-public class QuestaoC_SomaSequenciaNum {
+public class questao_23_v1 {
     public static void main(String[] args) {
-        //4. Construa um programa que calcule a soma de uma seqüência de números introduzidos pelo usuário.
+        // Construa um programa que calcule a soma de uma seqüência de números introduzidos pelo usuário.
         // O programa deve solicitar o tamanho da sequência ao usuário.
         Scanner ler = new Scanner(System.in);
         int soma = 0, x, num;
