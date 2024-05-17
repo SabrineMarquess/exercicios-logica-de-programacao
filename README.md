@@ -1,12 +1,12 @@
 <h1> Exercícios de Lógica de Programação 💻</h1> 
 
 - Abaixo você vai encontrar exercícios de lógica de programação para melhorar sua base em desenvolvimento. 
-- Caso precise das respostas, por favor acesse a <b>SRC</b> que terão todas as respostas para cada questão. 
+- Caso precise das respostas, por favor acesse a <b>SRC/EXERCÍCIOS</b> que terão todas as respostas para cada questão. 
 - Qualquer sugestão, dúvida ou erro, por favor entrar em contato e reportar!
 
 <H3>Como acessar as respostas 💡</H3>
 
-- Apenas acesse a pasta SRC que terão as respostas para cada questão.
+- Apenas acesse a pasta SRC/EXERCÍCIOS que terão as respostas para cada questão.
 
 <h1>Lista de Exercícios 🚀</h1>
 
