@@ -4,7 +4,7 @@
 - Caso precise das respostas, por favor acesse a <b>SRC</b> que terão todas as respostas para cada questão. 
 - Qualquer sugestão, dúvida ou erro, por favor entrar em contato e reportar!
 
-<H3>Como acessar as respostas 💡</H2>
+<H3>Como acessar as respostas 💡</H3>
 
 - Apenas acesse a pasta SRC que terão as respostas para cada questão.
 
@@ -111,6 +111,8 @@ Ler um valor N e imprimir todos os valores inteiros entre 1 (inclusive) e N (inc
 ### 27. Tabuada:
 Escreva um algoritmo que calcule e imprima a tabuada de um número de 1 a 10 dado pelo usuário.
 
-> ❓[DÚVIDAS](https://github.com/SabrineSilva/exercicios-logica-de-programacao/discussions/4#discussion-6409526) | 🌟 [MEU LINKEDIN](https://www.linkedin.com/in/sabrine-marques-888056268/)  
+<h1>Dúvidas / Contato 🔍</h1>
+
+> ❓[DÚVIDAS](https://github.com/SabrineSilva/exercicios-logica-de-programacao/discussions/4#discussion-6409526) 🌟 [MEU LINKEDIN](https://www.linkedin.com/in/sabrine-marques-888056268/)  
 > Este projeto é promovido por: Sabrine Marques, Luiz Guilherme,  Leonardo Castro e Caio Henrique
 
