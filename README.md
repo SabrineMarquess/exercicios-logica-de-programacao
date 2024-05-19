@@ -141,6 +141,9 @@ Escreva um programa que guarde os nomes dos meses do ano. Após isto, o programa
 ### 35. Multiplicação de Vetor: 
 Ler um vetor A de 10 números. Após, ler mais um número e guardar em uma variável X. Armazenar em um vetor M o resultado de cada elemento de A multiplicado pelo valor X. Logo após, imprimir o vetor M.
 
+### 36. Programa de Operações com Números:
+Desenvolva um programa que solicita ao usuário inserir cinco números. Em seguida, o programa deve identificar os dois maiores números e os dois menores números entre os cinco fornecidos. Após isso, realizar a operação: subtrair a soma dos dois menores números da soma dos dois maiores números.
+
 <h1>Dúvidas / Contato 🔍</h1>
 
 > ❓[DÚVIDAS](https://github.com/SabrineSilva/exercicios-logica-de-programacao/discussions/4#discussion-6409526) 🌟 [MEU LINKEDIN](https://www.linkedin.com/in/sabrine-marques-888056268/)  
