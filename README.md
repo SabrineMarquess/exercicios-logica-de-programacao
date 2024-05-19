@@ -144,6 +144,9 @@ Ler um vetor A de 10 números. Após, ler mais um número e guardar em uma vari�
 ### 36. Programa de Operações com Números:
 Desenvolva um programa que solicita ao usuário inserir cinco números. Em seguida, o programa deve identificar os dois maiores números e os dois menores números entre os cinco fornecidos. Após isso, realizar a operação: subtrair a soma dos dois menores números da soma dos dois maiores números.
 
+
+
+
 <h1>Dúvidas / Contato 🔍</h1>
 
 > ❓[DÚVIDAS](https://github.com/SabrineSilva/exercicios-logica-de-programacao/discussions/4#discussion-6409526) 🌟 [MEU LINKEDIN](https://www.linkedin.com/in/sabrine-marques-888056268/)  
