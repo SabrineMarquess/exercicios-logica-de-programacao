@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_1 {
+public class questao_01 {
     public static void main(String[] args) {
         //A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de
         //broas a cada dia. Cada pãozinho custa R$ 0,12 e a broa custa R$ 1,50. Ao final do dia, o

@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_5 {
+public class questao_05 {
     public static void main(String[] args) {
         //A granja Frangotech possui um controle automatizado de cada frango da sua produção.
         //No pé direito do frango há um anel com um chip de identificação; no pé esquerdo são

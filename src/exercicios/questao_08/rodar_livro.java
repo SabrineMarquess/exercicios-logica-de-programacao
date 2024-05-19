@@ -1,4 +1,4 @@
-package src.exercicios.questao_livro;
+package src.exercicios.questao_08;
 
 public class rodar_livro {
     public static void main(String[] args) {

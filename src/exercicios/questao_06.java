@@ -2,7 +2,7 @@ package src.exercicios;
 
 import java.util.Scanner;
 
-public class questao_6 {
+public class questao_06 {
     public static void main(String[] args) {
         //5- Considere a sub-rotina abaixo:
 
