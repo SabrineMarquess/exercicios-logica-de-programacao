@@ -1,33 +1,35 @@
 package src.exercicios;
 
+import java.time.LocalDate;
 import java.util.Scanner;
 
 public class questao_30 {
-    // Quero saber a porcentagem do meu gráfico, onde tem 4 notas médias, 0 ruins e 1 boa
-
     public static void main(String[] args) {
+        // Fornecendo algumas informações: Quanto eu ganho por mês, quanto eu
+        // tenho na minha conta e quanto eu gasto mensalmente
+        // quero um código que calcule a previsão do valor que vou ter em conta
+        // nos meses do ano.
         Scanner scanner = new Scanner(System.in);
-        int totalDeNotas;
+        double valorAtual, rendaMensal, despesaMensal;
+        System.out.print("Qual o valor total presente na sua conta atualmente");
+        valorAtual = scanner.nextDouble();
+        double valorCalculado = valorAtual;
+        System.out.println("Quanto é o total de suas rendas mensais?");
+        rendaMensal = scanner.nextDouble();
+        System.out.println("Quanto é o total de suas despesas mensais?");
+        despesaMensal = scanner.nextDouble();
 
-        System.out.println("Quantas notas são no total?");
-        totalDeNotas = scanner.nextInt();
+        int mesAtual = LocalDate.now().getMonth().getValue();
 
-        System.out.println("Quantas notas boas? (8-10)");
-        int notasBoas = scanner.nextInt();
-        System.out.println("Quantas notas medianas? (6-7)");
-        int notasMedianas = scanner.nextInt();
-        System.out.println("Quantas notas ruins? (0-5)");
-        int notasRuins = scanner.nextInt();
-
-        double percentualNotasBoas = ((double) notasBoas / totalDeNotas) * 100;
-        double percentualNotasMedianas = ((double) notasMedianas / totalDeNotas) * 100;
-        double percentualNotasRuins = ((double) notasRuins / totalDeNotas) * 100;
-
-        System.out.println("Percentual de notas boas: " + percentualNotasBoas);
-
-        System.out.println("Percentual de notas medianas: " + percentualNotasMedianas);
-
-        System.out.println("Percentual de notas ruins: " + percentualNotasRuins);
-
+        for (int numeroDoMes = LocalDate.now().getMonth().getValue(); numeroDoMes <= 12; numeroDoMes++) {
+            if (numeroDoMes == mesAtual) {
+                System.out.println("No mês: " + numeroDoMes + " sua renda final é de: " + valorAtual);
+            } else {
+                valorCalculado = valorCalculado + rendaMensal - despesaMensal;
+                System.out.println("No mês: " + numeroDoMes + " sua renda final é de: " + valorCalculado);
+            }
+        }
     }
+
+
 }

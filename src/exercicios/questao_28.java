@@ -1,20 +1,30 @@
 package src.exercicios;
 
-import java.util.Scanner;
-
 public class questao_28 {
-    public static void main(String[] args) {
-        //9. Escreva um algoritmo que calcule e imprima a tabuada de um número de 1 a 10 dado pelo usuário.
-        Scanner ler = new Scanner(System.in);
-        int x, resultado;
+    public static void main(String[] args) throws InterruptedException {
+//      Desenvolver uma espécie de temporizador, quando você roda a aplicação ele começa a contar
+//      Exibindo horas, minutos, e segundos, nos 60 segundos ele recomeça a contagem, da mesma forma com
+//      minutos e horas até 24
 
-        System.out.println("Informe o Numero que deseja ver a Tabuada: ");
-        x = ler.nextInt();
+        int minutos = 0, horas = 0;
 
-        for (int i = 0; i <= 10; i++) {
-            resultado = x * i;
-            System.out.println(x + " x " + i + " = " + resultado);
+        for (int segundos = 0; segundos < 61; segundos++) {
+
+            Thread.sleep(1000);
+            if (segundos == 60) {
+                segundos = 0;
+                minutos++;
+                if (minutos == 60) {
+                    minutos = 0;
+                    horas++;
+                    if (horas == 24) {
+                        horas = 0;
+                    }
+                }
+            }
+
+            System.out.printf("%02d:%02d:%02d \n", horas, minutos, segundos);
+
         }
-
     }
 }

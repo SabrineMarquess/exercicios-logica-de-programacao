@@ -1,30 +1,33 @@
 package src.exercicios;
 
+import java.util.Scanner;
+
 public class questao_29 {
-    public static void main(String[] args) throws InterruptedException {
-//      Desenvolver uma espécie de temporizador, quando você roda a aplicação ele começa a contar
-//      Exibindo horas, minutos, e segundos, nos 60 segundos ele recomeça a contagem, da mesma forma com
-//      minutos e horas até 24
+    // Quero saber a porcentagem do meu gráfico, onde tem 4 notas médias, 0 ruins e 1 boa
 
-        int minutos = 0, horas = 0;
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int totalDeNotas;
 
-        for (int segundos = 0; segundos < 61; segundos++) {
+        System.out.println("Quantas notas são no total?");
+        totalDeNotas = scanner.nextInt();
 
-            Thread.sleep(1000);
-            if (segundos == 60) {
-                segundos = 0;
-                minutos++;
-                if (minutos == 60) {
-                    minutos = 0;
-                    horas++;
-                    if (horas == 24) {
-                        horas = 0;
-                    }
-                }
-            }
+        System.out.println("Quantas notas boas? (8-10)");
+        int notasBoas = scanner.nextInt();
+        System.out.println("Quantas notas medianas? (6-7)");
+        int notasMedianas = scanner.nextInt();
+        System.out.println("Quantas notas ruins? (0-5)");
+        int notasRuins = scanner.nextInt();
 
-            System.out.printf("%02d:%02d:%02d \n", horas, minutos, segundos);
+        double percentualNotasBoas = ((double) notasBoas / totalDeNotas) * 100;
+        double percentualNotasMedianas = ((double) notasMedianas / totalDeNotas) * 100;
+        double percentualNotasRuins = ((double) notasRuins / totalDeNotas) * 100;
 
-        }
+        System.out.println("Percentual de notas boas: " + percentualNotasBoas);
+
+        System.out.println("Percentual de notas medianas: " + percentualNotasMedianas);
+
+        System.out.println("Percentual de notas ruins: " + percentualNotasRuins);
+
     }
 }

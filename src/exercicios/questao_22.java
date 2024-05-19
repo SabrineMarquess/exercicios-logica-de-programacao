@@ -4,18 +4,20 @@ import java.util.Scanner;
 
 public class questao_22 {
     public static void main(String[] args) {
-        //3. Imprima a soma de todos os números inteiros num intervalo introduzido pelo usuário.
+        // Construa um programa que calcule a soma de uma seqüência de números introduzidos pelo usuário.
+        // O programa deve solicitar o tamanho da sequência ao usuário.
         Scanner ler = new Scanner(System.in);
-        int soma = 0, x;
+        int soma = 0, x, num;
 
-        System.out.println("Informe o Numero Inteiro do final do intervalo a qual deverá ser realizada a soma de 0 à: ");
-
+        System.out.println("Informe o tamanho da sequência de numeros");
         x = ler.nextInt();
 
-        for (int i = 0; i <= x; i++) {
-            soma += i;
+        for (int i = 1; i <= x; i++) {
+            System.out.println("Informe o valor do " + i + " número:");
+            num = ler.nextInt();
+            soma += num;
         }
-        System.out.println("Resultado da Soma dos números no intervalo informado é: " + soma);
+        System.out.println("Resultado da Soma dos números da sequência é: " + soma);
 
     }
 }
