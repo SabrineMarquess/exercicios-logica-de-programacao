@@ -37,11 +37,12 @@ Considere a sub-rotina abaixo:
 7. Fim programa
 ```
 Analisando o programa acima, e supondo que o valor fornecido para “X” na terceira linha seja 3 e o valor fornecido para Y na quarta linha seja 4, pode-se afirmar que o valor da variável “Z” na sexta linha é:
+
 ### 7. Soma de Números Inteiros:
 Desenvolver um código que mostre a soma de todos os números inteiros de 0 a 10. Exemplo: 1 + 0, 1 + 2, 3 + 3…
 
-### 8. Temporizador (Primeira Vez):
-Desenvolver uma espécie de temporizador, quando você roda a aplicação ele começa a contar, exibindo horas, minutos, e segundos, nos 60 segundos ele recomeça a contagem, da mesma forma com minutos e horas até 24.
+### 8. Coleção de Livros:
+Você está desenvolvendo um sistema em Java para gerenciar uma coleção de livros. Sua tarefa é criar uma classe que representa um livro e uma classe que contém o método principal para testar a funcionalidade da classe de livro.
 
 ### 9. Reajuste de Salário:
 Desenvolver a lógica para um programa que efetue o cálculo do reajuste de salário de um funcionário. Considere que o funcionário deverá receber um reajuste de 15% caso seu salário seja menor ou igual a 1500. Se o salário for maior que 1500, mas, menor ou igual a 2500, seu reajuste será de 10%; caso seja maior que 2500, mas menor que 10000, o reajuste deverá ser de 7%. Caso seja ainda maior que 10000, o reajuste deverá ser de 5%.
@@ -110,6 +111,41 @@ Ler um valor N e imprimir todos os valores inteiros entre 1 (inclusive) e N (inc
 
 ### 27. Tabuada:
 Escreva um algoritmo que calcule e imprima a tabuada de um número de 1 a 10 dado pelo usuário.
+
+### 28. Temporizador: 
+Desenvolver uma espécie de temporizador, quando você roda a aplicação ele começa a contar
+Exibindo horas, minutos, e segundos, nos 60 segundos ele recomeça a contagem, da mesma forma com
+minutos e horas até 24
+
+### 29. Porcentagem de Gráfico: 
+Quero saber a porcentagem de um gráfico, onde calcula com base nas notas fornecidas por mim. 
+
+### 30. Previsão da Minha Renda: 
+Fornecendo algumas informações: Quanto eu ganho por mês, quanto eu
+tenho na minha conta e quanto eu gasto mensalmente
+quero um código que calcule a previsão do valor que vou ter em conta
+nos meses do ano.
+
+### 31. Soma de Vetores: 
+Escreva um algoritmo que solicita ao usuário um valor inteiro N, representando o tamanho dos vetores. Em seguida, o programa deve ler dois vetores, A e B, ambos de tamanho N. Posteriormente, o algoritmo deve calcular a soma dos elementos dos vetores A e B, respeitando as posições correspondentes, e armazenar o resultado em um terceiro vetor, Soma. Por fim, o programa deve exibir o vetor Soma.
+
+### 32. Ordenação de Vetor: 
+Desenvolva um algoritmo que solicita ao usuário inserir 10 números inteiros e os armazena em um vetor. Em seguida, o programa deve ordenar os números no vetor em ordem crescente. Por fim, exiba o vetor ordenado.
+
+### 33. Média dos Alunos:
+Escreva um algoritmo que permita a leitura das notas de uma turma de 20 alunos. Calcular a média da turma e contar quantos alunos obtiveram nota acima desta média calculada. Escrever a média da turma e o resultado da contagem.
+
+### 34. Guardar Meses:
+Escreva um programa que guarde os nomes dos meses do ano. Após isto, o programa deve permitir a leitura de uma data e escrever o nome do mês da data informada.
+
+### 35. Multiplicação de Vetor: 
+Ler um vetor A de 10 números. Após, ler mais um número e guardar em uma variável X. Armazenar em um vetor M o resultado de cada elemento de A multiplicado pelo valor X. Logo após, imprimir o vetor M.
+
+### 36. Programa de Operações com Números:
+Desenvolva um programa que solicita ao usuário inserir cinco números. Em seguida, o programa deve identificar os dois maiores números e os dois menores números entre os cinco fornecidos. Após isso, realizar a operação: subtrair a soma dos dois menores números da soma dos dois maiores números.
+
+
+
 
 <h1>Dúvidas / Contato 🔍</h1>
 
