@@ -145,6 +145,11 @@ Ler um vetor A de 10 números. Após, ler mais um número e guardar em uma vari�
 Desenvolva um programa que solicita ao usuário inserir cinco números. Em seguida, o programa deve identificar os dois maiores números e os dois menores números entre os cinco fornecidos. Após isso, realizar a operação: subtrair a soma dos dois menores números da soma dos dois maiores números.
 
 
+### 37. Simulador de Mercado Financeiro
+Descrição:
+Este programa simula o crescimento de um investimento ao longo de 12 meses, considerando diferentes tipos de investimentos: ações, fundos imobiliários e criptomoedas. O usuário fornece o valor inicial do investimento e as taxas mensais de crescimento de cada tipo de investimento. O programa calcula o saldo acumulado de cada tipo ao final de 12 meses e exibe os resultados.
+
+
 
 
 <h1>Dúvidas / Contato 🔍</h1>
