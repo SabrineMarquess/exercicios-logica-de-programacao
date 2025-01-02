@@ -6,7 +6,7 @@ public class questao_37 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Bem-vindo ao Simulador de Mercado Financeiro!");
+        System.out.println("Bem-vindo ao Simulador de Mercado Financeiro");
 
         System.out.print("Digite o valor inicial do investimento: R$ ");
         double valorInicial = scanner.nextDouble();
